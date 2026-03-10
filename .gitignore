@@ -116,4 +116,16 @@ app.*.symbols
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
-!/dev/ci/**/Gemfile.lock
+!/dev/ci/**/Gemfile.lock/build/
+/.dart_tool/
+/ios/Flutter/Flutter.podspec
+/ios/Runner.xcodeproj/project.xcworkspace/
+/ios/Runner.xcworkspace/
+/macos/Flutter/Flutter-Debug.xcconfig
+/macos/Flutter/Flutter-Release.xcconfig
+/macos/Flutter/Flutter-Profile.xcconfig
+/macos/Runner.xcodeproj/project.xcworkspace/
+/macos/Runner.xcworkspace/
+/windows/flutter/ephemeral/
+/*.iml
+/android/.gradle/
