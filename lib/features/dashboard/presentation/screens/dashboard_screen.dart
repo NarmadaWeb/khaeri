@@ -183,7 +183,7 @@ class DashboardScreen extends StatelessWidget {
                                     style: GoogleFonts.inter(
                                       fontSize: 12,
                                       fontWeight: FontWeight.w500,
-                                      color: isDark ? AppTheme.slate300 : AppTheme.slate900,
+                                      color: isDark ? AppTheme.slate200 : AppTheme.slate900,
                                     ),
                                   ),
                                   const SizedBox(height: 12),
